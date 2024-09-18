@@ -1,0 +1,14 @@
+---
+title: "Assignment 3 Web Page"
+output: html_document
+---
+<br>
+
+This is a collaborative website between **Sachi Srivastava** (<https://github.com/sachisriv543/>) and **Adam Bogdanove** (<https://github.com/abogdanove/>). We are both students in **NTRES 6100: Collaborative and Reproducible Data Science in R at Cornell University**. 
+
+<br>
+
+Here is a picture of a mushroom:
+
+![*Amanita muscaria*](https://www.jardineriaon.com/wp-content/uploads/2019/11/Caracter%C3%ADsticas-de-la-Amanita-muscaria.jpg)
+

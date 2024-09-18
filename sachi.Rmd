@@ -1,0 +1,13 @@
+---
+title: "Sachi Srivastava"
+output: html_document
+---
+
+## Here is some information about me
+
+<br>
+
++ Senior studying Environment and Sustainability with minors in Plant Sciences and Community Food Systems.
++ I am learning how to play the guitar. 
++ My favorite trees are Mulberries or Swamp Oaks. 
++ My birthday is in March!
